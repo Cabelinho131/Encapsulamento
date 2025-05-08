@@ -1,0 +1,27 @@
+package Control;
+//se uma classe java fizer referencia a outra classe
+//que esteja em outro pacote. ele devera importar a classe
+// referenciada usando a clausula import
+import Model.B;
+import View.C;
+
+public class D {
+
+public void testeA(){
+
+    A a = new A();
+    //a.
+}
+
+    public void testeB(){
+
+        B b = new B();
+        //b.
+    }
+
+    public void testeC(){
+
+        C c = new C();
+        //c.
+    }
+}
