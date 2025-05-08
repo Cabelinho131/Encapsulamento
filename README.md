@@ -8,3 +8,11 @@ Encapsulamento
 		- public: a propriedade pode ser acessada por objetos de quaisquer classes do mesmo projeto.
 		- "package": a propriedade pode ser acessada por objetos ...
 		- protected: a propriedade pode ser acessada por objetos ...
+
+
+
+Criamos as classes A, D e E no package Control
+
+Criamos as classes B e F no package Model
+
+Criamos a classe C no package View
